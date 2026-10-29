@@ -1,26 +1,27 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-10-28",
-  "todayCount": 2,
+  "totalSolved": 4,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-10-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
     "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
-    "LeetCode_Length_of_Last_Word": true
+    "LeetCode_Length_of_Last_Word": true,
+    "LeetCode_Divide_Two_Integers": true
   },
   "activityHistory": {
     "2026-10-27": 1,
-    "2026-10-28": 2
+    "2026-10-28": 2,
+    "2026-10-29": 1
   },
   "todayProblems": [
-    "Minimum XOR Path in a Grid",
-    "Length of Last Word"
+    "Divide Two Integers"
   ]
 }
