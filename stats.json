@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -14,14 +14,16 @@
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
     "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
     "LeetCode_Length_of_Last_Word": true,
-    "LeetCode_Divide_Two_Integers": true
+    "LeetCode_Divide_Two_Integers": true,
+    "LeetCode_Valid_Sudoku": true
   },
   "activityHistory": {
     "2026-10-27": 1,
     "2026-10-28": 2,
-    "2026-10-29": 1
+    "2026-10-29": 2
   },
   "todayProblems": [
-    "Divide Two Integers"
+    "Divide Two Integers",
+    "Valid Sudoku"
   ]
 }
