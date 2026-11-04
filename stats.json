@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 8,
-  "maxStreak": 8,
-  "lastSyncDate": "2026-11-03",
-  "todayCount": 2,
+  "totalSolved": 12,
+  "currentStreak": 9,
+  "maxStreak": 9,
+  "lastSyncDate": "2026-11-04",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -21,7 +21,8 @@
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true
+    "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_List_II": true
   },
   "activityHistory": {
     "2026-10-27": 1,
@@ -31,10 +32,10 @@
     "2026-10-31": 1,
     "2026-11-01": 1,
     "2026-11-02": 1,
-    "2026-11-03": 2
+    "2026-11-03": 2,
+    "2026-11-04": 1
   },
   "todayProblems": [
-    "Minimum Moves to Equal Array Elements III",
-    "Remove Duplicates from Sorted Array II"
+    "Remove Duplicates from Sorted List II"
   ]
 }
