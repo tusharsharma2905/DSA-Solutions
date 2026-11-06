@@ -13,3 +13,4 @@
 | 11 | [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 03 Nov 2026 | 03:35 pm |
 | 12 | [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 04 Nov 2026 | 03:59 pm |
 | 13 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 05 Nov 2026 | 08:25 pm |
+| 14 | [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | Medium | 06 Nov 2026 | 03:14 pm |
