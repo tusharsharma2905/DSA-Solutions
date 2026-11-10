@@ -17,3 +17,4 @@
 | 15 | [Combination Sum](./LeetCode/Medium/Combination%20Sum) | [LeetCode](https://leetcode.com/problems/combination-sum/) | Medium | 07 Nov 2026 | 04:18 pm |
 | 16 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 08 Nov 2026 | 11:49 pm |
 | 17 | [Count and Say](./LeetCode/Medium/Count%20and%20Say) | [LeetCode](https://leetcode.com/problems/count-and-say/) | Medium | 09 Nov 2026 | 11:28 pm |
+| 18 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 10 Nov 2026 | 04:51 pm |
