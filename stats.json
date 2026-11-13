@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 17,
-  "maxStreak": 17,
-  "lastSyncDate": "2026-11-12",
+  "totalSolved": 21,
+  "currentStreak": 18,
+  "maxStreak": 18,
+  "lastSyncDate": "2026-11-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 15,
+    "medium": 16,
     "hard": 0,
     "basic": 0
   },
@@ -30,7 +30,8 @@
     "LeetCode_Count_and_Say": true,
     "LeetCode_Permutations": true,
     "LeetCode_Permutations_II": true,
-    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
+    "LeetCode_Rotate_Image": true
   },
   "activityHistory": {
     "2026-10-27": 1,
@@ -49,9 +50,10 @@
     "2026-11-09": 1,
     "2026-11-10": 1,
     "2026-11-11": 1,
-    "2026-11-12": 1
+    "2026-11-12": 1,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Longest Strictly Increasing or Strictly Decreasing Subarray"
+    "Rotate Image"
   ]
 }

@@ -20,3 +20,4 @@
 | 18 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 10 Nov 2026 | 04:51 pm |
 | 19 | [Permutations II](./LeetCode/Medium/Permutations%20II) | [LeetCode](https://leetcode.com/problems/permutations-ii/) | Medium | 11 Nov 2026 | 08:23 pm |
 | 20 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 10:29 pm |
+| 21 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 13 Nov 2026 | 06:27 pm |
