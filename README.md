@@ -25,3 +25,4 @@
 | 23 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 15 Nov 2026 | 10:45 pm |
 | 24 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 09:26 pm |
 | 25 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 17 Nov 2026 | 10:40 pm |
+| 26 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 18 Nov 2026 | 08:50 pm |
