@@ -27,3 +27,4 @@
 | 25 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 17 Nov 2026 | 10:40 pm |
 | 26 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 18 Nov 2026 | 08:50 pm |
 | 27 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 19 Nov 2026 | 08:20 pm |
+| 28 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 20 Nov 2026 | 08:29 pm |
