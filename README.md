@@ -30,3 +30,4 @@
 | 28 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 20 Nov 2026 | 08:29 pm |
 | 29 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 21 Nov 2026 | 03:54 pm |
 | 30 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 23 Nov 2026 | 09:35 pm |
+| 31 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 11:42 am |
