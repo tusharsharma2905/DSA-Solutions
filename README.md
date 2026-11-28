@@ -32,3 +32,4 @@
 | 30 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 23 Nov 2026 | 09:35 pm |
 | 31 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 11:42 am |
 | 32 | [Excel Sheet Column Title](./LeetCode/Easy/Excel%20Sheet%20Column%20Title) | [LeetCode](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | 27 Nov 2026 | 03:53 pm |
+| 33 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 28 Nov 2026 | 06:17 pm |
